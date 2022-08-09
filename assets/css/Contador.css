@@ -1,0 +1,43 @@
+body{
+    background-color: #cecece;
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+
+#incrementar{
+    background-color: rgb(54, 36, 156);
+    color: blanchedalmond;
+    border-radius: 7px;
+    padding: 10px;
+    margin: 5px;
+}
+
+#decrementar{
+    background-color: rgb(54, 36, 156);
+    color: blanchedalmond;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+}
+
+#resetear{
+    background-color: rgb(54, 36, 156);
+    color: blanchedalmond;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+}
